@@ -37,7 +37,7 @@ The close training and testing accuracy indicates that there was no significant 
 
 ## Project Files
 
-- `Phishing Website Detection.ipynb` — Google Colab notebook containing the code and results.
+- `AI_Assignment_Phishing_URL.ipynb` — Google Colab notebook containing the code and results.
 - `dataset.csv` — Dataset used for training and testing.
 
 
